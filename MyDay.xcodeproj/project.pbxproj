@@ -23,6 +23,7 @@
 		74A3211F2AEBC8C2002E38E3 /* CoverPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74A321142AEBC8C2002E38E3 /* CoverPage.swift */; };
 		74A321212AEBC8E4002E38E3 /* backgroundMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 74A321202AEBC8E4002E38E3 /* backgroundMusic.mp3 */; };
 		74A321232AEBC8EB002E38E3 /* Font in Resources */ = {isa = PBXBuildFile; fileRef = 74A321222AEBC8EB002E38E3 /* Font */; };
+		74A4D8122AECCD2100EA45B8 /* video70YearsNTOU.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 74A4D8112AECCD2100EA45B8 /* video70YearsNTOU.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		74A321202AEBC8E4002E38E3 /* backgroundMusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = backgroundMusic.mp3; sourceTree = "<group>"; };
 		74A321222AEBC8EB002E38E3 /* Font */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Font; sourceTree = "<group>"; };
 		74A321242AEBC900002E38E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		74A4D8112AECCD2100EA45B8 /* video70YearsNTOU.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video70YearsNTOU.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			isa = PBXGroup;
 			children = (
 				74A321242AEBC900002E38E3 /* Info.plist */,
+				74A4D8112AECCD2100EA45B8 /* video70YearsNTOU.mp4 */,
 				74A321202AEBC8E4002E38E3 /* backgroundMusic.mp3 */,
 				74A321222AEBC8EB002E38E3 /* Font */,
 				74A320FC2AEBC8A2002E38E3 /* MyDayApp.swift */,
@@ -164,6 +167,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				74A321042AEBC8A2002E38E3 /* Preview Assets.xcassets in Resources */,
+				74A4D8122AECCD2100EA45B8 /* video70YearsNTOU.mp4 in Resources */,
 				74A321012AEBC8A2002E38E3 /* Assets.xcassets in Resources */,
 				74A321212AEBC8E4002E38E3 /* backgroundMusic.mp3 in Resources */,
 				74A321232AEBC8EB002E38E3 /* Font in Resources */,
